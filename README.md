@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor tudo bem ? 👋
 
-- 🔭 Atualmente trabalho no GPA (Grupo Pão de Açucar).
-- 🌱 Estudando C# .
+- 🔭 Trabalho no GPA (Grupo Pão de Açucar).
+- 🌱 Atualmente estudando C# .
 - 👯 Procuro sempre melhorar e fazer novas amizades ! 
 - 🤓 gosto de novos desafios e pretendo alcançar meus objetivos !
 - 💬 Quer me fazer alguma pergunta ?
