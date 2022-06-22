@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho no GPA (Grupo Pão de Açucar).
 - 🌱 Estudando C# .
 - 👯 Procuro sempre melhorar e fazer novas amizades ! 
-- 🤓 gosto de novos desafios e pretendo alcansar meus objetivos !
+- 🤓 gosto de novos desafios e pretendo alcançar meus objetivos !
 - 💬 Quer me fazer alguma pergunta ?
 - 📱 Como me contatar: (11)97956-7514
 - 
