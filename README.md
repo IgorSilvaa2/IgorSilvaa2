@@ -1,17 +1,17 @@
 ### Olá! Eu sou o Igor tudo bem ? 👋
 
-- 🔭 Estudante morando na EU.
-- 🌱 Atualmente estudando C# .
+- 🔭 Estudante, morando na Europa.
+- 🌱 Atualmente estudando C .
 - 👯 Procuro sempre melhorar e fazer novas amizades ! 
 - 🤓 gosto de novos desafios e pretendo alcançar meus objetivos !
 - 💬 Quer me fazer alguma pergunta ?
-- 📱 Como me contatar: (11)97956-7514
+- 📱 Como me contatar: (351)915 867 062
 - 
 -->
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorsilva2/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/63JDgcJYZD" )
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boxigor14@gmail.com )
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boxigor.pt@gmail.com )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorr_silva2)
 [![Watzap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/igorsilva2/ )
 
