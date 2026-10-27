@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Igor tudo bem ? 👋
 
-- 🔭 Estudante, morando na Europa.
-- 🌱 Atualmente estudando C .
-- 👯 Procuro sempre melhorar e fazer novas amizades ! 
+- 🔭 Estudante, morando em Portugal.
+- 🌱 Atualmente estudando.
+- 👯 Procuro sempre melhorar ! 
 - 🤓 gosto de novos desafios e pretendo alcançar meus objetivos !
 - 💬 Quer me fazer alguma pergunta ?
 - 📱 Como me contatar: (351)915 867 062
